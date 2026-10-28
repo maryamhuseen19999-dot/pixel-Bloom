@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(to bottom,rgb(0, 162, 255) ,transparent);
+    height: 800px;
+}
+.parent{
+background: rgb(117, 12, 138);
+
+}
+
+.blue{
+width: 50px;
+height: 50px;
+padding: 900;
+border-radius: 20px;
+background: bisque;
+
+}
+.red{
+background-color:  rgb(163, 48, 230);
+width: 50px;
+height: 50px;  
+
+}
+.green{
+background-color: rgb(172, 16, 151);
+width: 50px;
+height: 50px;
+margin: 900;
+}
+.float{
+float: right;
+
+}
+
+
+
+
+
+
